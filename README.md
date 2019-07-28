@@ -1,4 +1,7 @@
 # HeartBeast_Godot_101
-Atelier Godot 101 - breakout 
-Basé entièrement sur le tutorial de HeartBeast : https://www.youtube.com/watch?v=ntYjl_obUDo&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp
+Ateliers Godot 101
+Basé entièrement sur les tutoriels de HeartBeast : 
+
+Breakout : https://www.youtube.com/watch?v=ntYjl_obUDo
+2D Platform : https://www.youtube.com/watch?v=wETY5_9kFtA&t=414s
 
